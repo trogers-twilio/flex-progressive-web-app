@@ -1,0 +1,14 @@
+{
+  "name": "Twilio Flex PWA",
+  "short_name": "Flex",
+  "theme_color": "#233659",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    {
+        "src": "./flex-logo-red-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ]
+}
