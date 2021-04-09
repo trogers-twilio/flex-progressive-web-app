@@ -117,3 +117,6 @@ dist
 
 # Twilio Serverless Files
 .twilio-functions
+
+# Mac OS files
+.DS_Store
